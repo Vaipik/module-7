@@ -1,6 +1,6 @@
-# Clean folder scripts
-asd
-Sorting files according to following extensions:
+## Package with clean folder script
+
+Package with script are sorting files according to following extensions:
 
 images      JPEG, PNG, JPG, SVG
 
@@ -18,4 +18,6 @@ Only latin symbols and "_" sign are allowed, otherwise file and folders will be 
 
 The program writes to terminal list of files with names and list with file extensions
 
-#### The program calls from terminal using following script name - 'clean-folder' 'path to folder' where 'path to folder' is destination path
+The program calls from terminal using following script name - "_**clean-folder**_" "_**path to folder**_" where 'path to folder' is destination path
+
+Package is already installed in **myenv** virtual environment
