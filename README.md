@@ -18,4 +18,4 @@ Only latin symbols and "_" sign are allowed, otherwise file and folders will be 
 
 The program writes to terminal list of files with names and list with file extensions
 
-# The program calls from terminal using following script name - 'clean-folder' 'path to folder' where 'path to folder' is destination path
+#### The program calls from terminal using following script name - 'clean-folder' 'path to folder' where 'path to folder' is destination path
